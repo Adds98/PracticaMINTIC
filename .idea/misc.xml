@@ -4,8 +4,14 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="..\:/Users/farma/AndroidStudioProjects/Practica4/app/src/main/res/layout/activity_main.xml" value="0.3625" />
+        <entry key="..\:/Users/farma/AndroidStudioProjects/Practica4/app/src/main/res/layout/activity_menu.xml" value="0.3625" />
         <entry key="..\:/Users/farma/AndroidStudioProjects/Practica4/app/src/main/res/layout/article_view.xml" value="0.3625" />
+        <entry key="..\:/Users/farma/AndroidStudioProjects/Practica4/app/src/main/res/layout/fragment_profile.xml" value="0.3625" />
+        <entry key="..\:/Users/farma/AndroidStudioProjects/Practica4/app/src/main/res/layout/fragment_profile_two.xml" value="0.3625" />
         <entry key="..\:/Users/farma/AndroidStudioProjects/Practica4/app/src/main/res/layout/items_card.xml" value="0.3625" />
+        <entry key="..\:/Users/farma/AndroidStudioProjects/Practica4/app/src/main/res/layout/layout_navigation_header.xml" value="0.3625" />
+        <entry key="..\:/Users/farma/AndroidStudioProjects/Practica4/app/src/main/res/menu/main_menu.xml" value="0.3625" />
+        <entry key="..\:/Users/farma/AndroidStudioProjects/Practica4/app/src/main/res/menu/navigation.xml" value="0.3625" />
       </map>
     </option>
   </component>
